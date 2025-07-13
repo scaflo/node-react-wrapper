@@ -1,4 +1,3 @@
-import {renderSSR} from "./renderSSR/renderSSR.js";
+import { renderSSR } from "./renderSSR/renderSSR.js";
 
-
-export {renderSSR};
+export { renderSSR };
